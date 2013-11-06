@@ -1,0 +1,12 @@
+{
+  "name": "Gearnode Registeration Wrapper",
+  "description": "Wrapper around registering handle functions with gearnode",
+  "version": "0.0.1",
+  "author": "Team Up Technologies <farzad@lagoa.com >",
+  "devDependencies": {
+    "gearnode": "0.1.2",
+  },
+  "engines": {
+    "node": ">= 0.6.0"
+  }
+}
